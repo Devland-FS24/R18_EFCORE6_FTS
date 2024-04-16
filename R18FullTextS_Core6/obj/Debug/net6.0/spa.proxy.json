@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:44459",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "F:\\Ready to use\\GITMS\\R18_EFCORE6_FTS\\R18FullTextS_Core6\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
